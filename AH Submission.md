@@ -4,7 +4,7 @@
 
 **Fintech BootCamp**
 
-![](AdviceRobologo.JPG)
+![](AdviceRobologo.jpg)
 
 **Synopsis:**
 
@@ -62,7 +62,7 @@ Its CreditRobo productoffers 3 services;
 
 This provides benefits in increased customer loyalty, responsible handling of customers credit risk and profit enhancement by saving time and cost on credit risk.
 
-![](key AdviceRobo benefits.JPG)
+![](keyAdviceRobobenefits.JPG)
 
 There is a crossover into the domain of Wealth Management (WealthTech) where the field of Robo-Advising has become synonymous with A.I driven decisions based on data point inputs and consumer behaviour and risk preferences.
 
@@ -86,7 +86,7 @@ Research from the [Cambridge Centre For Alternative Finance](https://www.jbs.cam
 
 This is known as the &#39;thin file&#39; customer segment. In personal retail banking, banks typically use rough indicators for externally observed demographic or economic criteria, such as profession, age, income, or wealth. Unfortunately, this eliminates a large group of customers, those with thin credit files. Thin customer segments are predominantly seen in developing countries. However, even in more developed countries, millennials, self-employed people, ex-pats, startup entrepreneurs, and migrants, all are likely to have thin credit files.
 
-![](thin credit.JPG)
+![](thincredit.JPG)
 
 Research from the traditional credit scoring service (FICO) illustrated above indicates the distribution of thin file customer segments. In the banking market, for example, 27% of population is new to credit and therefore have a thin-file. 17% of the population have lost access to credit, 28% of the population is creditor retired, and 34% of the population holds no credit file at all
 
@@ -115,11 +115,11 @@ Developing a New Approach
 
 Traditional forms of credit scoring are retrospective and based on adverse historical events. These are easiest to undertake when a borrower has previously been provided with a form of credit and their real loan performance is reviewed against the necessary repayment calendar. This is known as the FICO score criteria (FICO stands for the Fair Isaac Corporation- the credit scoring agency that developed the model that now has universal adoption). However as can be seen in the following image there is now in the modern day much greater access to a much broader range of data sets which can be generally indicated as follows:
 
-![](additions to FICO.JPG)
+![](additionstoFICO.JPG)
 
 If a &#39;thin file&#39; customer has not had sufficient access to traditional credit and cannot obtain a FICO score then they have; until recently, been unable to access new credit. The new paradigm is to now enable a bespoke credit score based on multiple data points. As indicated in the following image, this increases the potential pool of creditworthy borrowers:
 
-![](data scoring.JPG)
+![](datascoring.JPG)
 
 The additional alternative data offers a greater level of predictive outcomes. This is known as the GINI score (The GINI score is based on the equitable opportunity principles of an Italian economist who devised an index to illustrate divergence in outcomes based on social advantages existing within a country). The GINI reference as applied to credit scoring, is simply to indicate that a fairer assessment can be made when other factors are added to an individual circumstance.
 
@@ -127,7 +127,7 @@ A white paper they published shows that while the Gini index for the resource sc
 
 As indicated below a credit provider OnDeck) which uses an internally configured bespoke credit score solution suggest that they can consistently achieve a better predictive outcome of impending default by overlayting alternative data points rather than relay upon the traditional standalone FICO score.
 
-![](ondeck prediction.JPG)
+![](ondeckprediction.JPG)
 
 This is because the additional of data points refines the score to individual situations.
 
@@ -141,13 +141,13 @@ Essentially AdviceRobo has created a credit intelligence platform which combines
 
 The software leverages machine learning in a SaaS environment to use deep scientifc knowledge to apply psychographics to scoring models. The platform works by offering an intelligent dashboard for financial services providers that collects customer response data from over 1,000 data points.. Data point assessment categories include;
 
-![](credit risk factors.JPG)
+![](creditriskfactors.JPG)
 
 AdviceRobo provides this service as a white label integration (which the credit provider can brand) for a seamless and bespoke customer experience.
 
 Through a virtual experience and within a matter of seconds the credit provider gets the applicant&#39;s credit score and a short profile via an application programming interface (API). Based on this, the lender can instantly either approve or reject the applicant within its lending parameters. This technology has been proven accelerate acceptance timeframes (+18%) and with confidence (providing the same or better risk levels up to 38% lower than average default rate).
 
-![](sample profiling.JPG)
+![](sampleprofiling.JPG)
 
 AdviceRobo indicate their service scored over 2 million people of the past 5 years, either as stand-alone or as extension of existing credit systems. The platform has helped 20% of applicants to get a loan confidently and safely. These same people are those Thin File customers who would have been rejected in the traditional FICO system, and performance results indicate that default rates within this sample group were 20% lower than the average base default rate.
 
@@ -157,7 +157,7 @@ The workflow architecture of the AdviceRobo service is a machine learning platfo
 
 This can be illustrated as follows:
 
-![](value proposition.JPG)
+![](valueproposition.JPG)
 
 The alternative data sets are collated and filtered. The psychometric scoring offers an opportunity for credit providers to help customers build and strengthen their financial health. At the same time, it allows them to deeply learn about their customers, understand their needs, and empower them with financial intelligence.
 
@@ -209,7 +209,7 @@ The alternative data approach which AdviceRobo applies is used by a number of ot
 
 An interesting application is demonstrated below with an African credit provider &#39;Tala&#39;, it makes loans using alternative data derived from smartphone usage (eg location, movement and call length) to model its own score of creditworthiness.
 
-![](Tala input.JPG)
+![](Talainput.JPG)
 
 
 An industry determined list of competitors to AdviceRobo in the field of credit scoring noted that the these were:
