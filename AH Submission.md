@@ -4,7 +4,7 @@
 
 **Fintech BootCamp**
 
-![](AdviceRobo logo.JPG)
+![](AdviceRobologo.jpg)
 
 **Synopsis:**
 
